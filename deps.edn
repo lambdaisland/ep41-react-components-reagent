@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.9.0"}
+        org.clojure/clojurescript {:git/url "https://github.com/clojure/clojurescript.git"
+                                   :sha "132d3aa232921a3cea66f830d61c89be78c581cb"}
+        reagent "0.8.0"}}
