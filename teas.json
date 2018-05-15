@@ -42,13 +42,6 @@
     null
   ],
   [
-    "Lotus tea",
-    "Lotus tea",
-    "Herbal tea",
-    "Asia",
-    null
-  ],
-  [
     "Chrysanthemum tea",
     "Chrysanthemum tea",
     "Herbal tea",
@@ -100,7 +93,7 @@
   [
     "Brown rice green tea",
     "Brown rice green tea",
-    "{{Flatlist",
+    null,
     null,
     null
   ],
