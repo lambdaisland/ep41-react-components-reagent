@@ -3,216 +3,191 @@
     "Doncha",
     "''Doncha''",
     "Post-fermented tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Barley tea",
     "Barley tea",
     "Herbal tea",
-    "East Asia",
-    null
+    "East Asia"
   ],
   [
     "Lotus tea",
     "Lotus tea",
     "Herbal tea",
-    "Asia",
-    null
+    "Asia"
   ],
   [
     "Mint tea",
     "Mint tea",
     "Herbal tea",
-    "Various",
-    null
+    "Various"
   ],
   [
     "Pine needle tea",
     "Pine needle tea",
     "Herbal tea",
-    "Various",
-    null
+    "Various"
   ],
   [
     "Brown rice tea",
     "Brown rice tea",
     "Herbal tea",
-    "Korea",
-    null
+    "Korea"
+  ],
+  [
+    "Lotus tea",
+    "Lotus tea",
+    "Herbal tea",
+    "Asia"
   ],
   [
     "Chrysanthemum tea",
     "Chrysanthemum tea",
     "Herbal tea",
-    "East Asia",
-    null
+    "East Asia"
   ],
   [
     "Buckwheat tea",
     "Buckwheat tea",
     "Herbal tea",
-    "East Asia",
-    null
+    "East Asia"
   ],
   [
     "Ginseng tea",
     "Ginseng tea",
     "Herbal tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Ginger tea",
     "Ginger tea",
     "Herbal tea",
-    "Asia",
-    null
+    "Asia"
   ],
   [
     "Cinnamon tea",
     "Cinnamon tea",
     "Herbal tea",
-    "Various",
-    null
+    "Various"
   ],
   [
     "Arrowroot tea",
     "Arrowroot tea",
     "Herbal tea",
-    "East Asia",
-    null
+    "East Asia"
   ],
   [
     "Tieguanyin",
     "Tieguanyin<br\/>\u9435\u89c0\u97f3",
     "Oolong",
-    "Anxi County,  Fujian Province, China and others",
-    "The harvests in spring (also known as ''Jade'') and autumn are most prized for the fruity, sometimes even berry taste and aroma"
+    "Anxi County,  Fujian Province, China and others"
   ],
   [
     "Brown rice green tea",
     "Brown rice green tea",
-    null,
-    null,
+    "{{Flatlist",
     null
   ],
   [
     "Brown rice green tea",
     "Brown rice green tea",
     "{{Flatlist",
-    null,
     null
   ],
   [
     "Gunpowder tea",
     "Gunpowder tea",
     "Green",
-    "Zhejiang Province China and others",
-    "Popular worldwide. Flavor varies according to the growing location of tea used for production"
+    "Zhejiang Province China and others"
   ],
   [
     "Rize tea",
     "Rize Tea",
     "Black",
-    "Rize Province, Turkey",
-    "NA"
+    "Rize Province, Turkey"
   ],
   [
     "Jin Jun Mei tea",
     "Jin jun mei (''Golden Horse Eyebrow'')",
     "Black",
-    "Wuyi Mountains, Fujian Province, China",
-    "Mellow and sweet"
+    "Wuyi Mountains, Fujian Province, China"
   ],
   [
     "Assam tea",
     "Assam",
     "Black",
-    "Assam, India",
-    "Brisk and malty with a bright color."
+    "Assam, India"
   ],
   [
     "Kombucha",
     "Kombucha",
     "Cold beverage",
-    "Unknown; possibly China",
-    "Kombucha including the culture"
+    "Unknown; possibly China"
   ],
   [
     "Plum blossom tea",
     "''Maehwa-cha''",
     "Tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Kelp tea",
     "Kelp tea",
     "Herbal tea",
-    "Japan, Korea",
-    "Japanese ''kobu-cha''"
+    "Japan, Korea"
   ],
   [
     "Maesil-cha",
     "''Maesil-cha''",
     "Herbal tea",
-    "Korea",
-    "Cold ''maesil-cha'' (plum tea) with pine nuts"
+    "Korea"
   ],
   [
     "Jeho-tang",
     "''Jeho-tang''",
     "Tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Jujube tea",
     "''Daechu-cha''",
     "Herbal tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Ogwa-cha",
     "''Ogwa-cha''",
     "Herbal tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Mogwa-cha",
     "''Mogwa-cha''",
     "Herbal tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Yulmu-cha",
     "''Yulmu-cha''",
     "Tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Sicklepod tea",
     "''Gyeolmyeongja-cha''",
     "Tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Ssukcha",
     "''Ssukcha''",
     "Herbal tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Ssanghwa-tang",
     "''Ssanghwa-tang''",
-    null,
     null,
     null
   ],
@@ -220,70 +195,60 @@
     "Omija-cha",
     "''Omija-cha''",
     "Herbal tea",
-    "Korea",
-    null
+    "Korea"
   ],
   [
     "Yuja tea",
     "''Yuja-cha''",
     "Herbal tea",
-    "Korea",
-    "''Yuja-cha'' (yuja tea) and ''yuja-cheong'' (yuja marmalade)"
+    "Korea"
   ],
   [
     "Goji tea",
     "''Gugi-cha''",
     "Herbal tea",
-    "Korea",
-    "''Gugija-cha'' (goji berry tea)"
+    "Korea"
   ],
   [
     "Club-Mate",
     "Club-Mate",
     null,
-    "Germany",
-    null
+    "Germany"
   ],
   [
     "Kombucha",
     "Kombucha",
     "Cold beverage",
-    "Unknown; possibly China",
-    "Kombucha including the culture"
+    "Unknown; possibly China"
   ],
   [
     "Yellow tea",
     "Yellow tea",
     "Tea",
-    "East Asia",
-    null
+    "East Asia"
   ],
   [
     "Green tea",
     "Green tea",
     "Tea",
-    "China",
-    "The appearance of green tea in three different stages (from left to right): the infused leaves, the dry leaves, and the liquid."
+    "China"
   ],
   [
     "Sejak",
     "''Sejak''",
     "Nokcha (green tea)",
-    "Korea",
-    "''Sejak'' green tea from Hadong County"
+    "Korea"
   ],
   [
     "Ujeon",
     "''Ujeon''",
     "Nokcha (green tea)",
-    "Korea",
-    "''Ujeon'' green tea from Hadong County"
+    "Korea"
   ],
   [
     "Jaekseol tea",
     "''Jaekseol-cha''",
     "Black tea",
-    "Hadong, Korea",
-    null
+    "Hadong, Korea"
   ]
 ]
